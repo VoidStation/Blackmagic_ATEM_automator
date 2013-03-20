@@ -15,10 +15,10 @@ Installing
 
 Donwload the files to your Desktop.
 Build one file with Terminal.app
-=====
+
 cd ~/Desktop
 gcc -framework Carbon -o GetCurrentKeyModifiers GetCurrentKeyModifiers.c
-=====
+
 
 Running
 =========================
